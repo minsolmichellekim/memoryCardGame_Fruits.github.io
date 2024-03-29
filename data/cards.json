@@ -42,5 +42,9 @@
     {
         "image": "./assets/blueberries.png",
         "name": "blueberries"
+    },
+    {
+        "image": "./assets/grapefruit.png",
+        "name": "grapefruit"
     }
 ]
